@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "954245936643",
+    "firebase_url": "https://ioder-512bd.firebaseio.com",
+    "project_id": "ioder-512bd",
+    "storage_bucket": "ioder-512bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954245936643:android:f8667e591faf144b",
+        "android_client_info": {
+          "package_name": "com.example.android.ioder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954245936643-9dvs4edvqef7i7j11idt06b5p89247bh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.ioder",
+            "certificate_hash": "734a394e022837da449d0d7699f216f6e4319de0"
+          }
+        },
+        {
+          "client_id": "954245936643-e11tukktmm0nnm2j32cnh2jq7h8edj3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqE199HtLlvtsZyRotcsIFhPa_JUSHLbU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954245936643-e11tukktmm0nnm2j32cnh2jq7h8edj3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
