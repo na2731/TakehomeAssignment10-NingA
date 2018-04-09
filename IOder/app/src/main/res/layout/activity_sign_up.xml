@@ -4,12 +4,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.android.ioder.MainActivity">
+    tools:context="com.example.android.ioder.SignUpActivity">
+
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@drawable/picture"
+        android:background="@drawable/picture8"
         android:orientation="vertical">
 
         <TextView
@@ -50,36 +51,17 @@
         </LinearLayout>
 
         <Button
-            android:id="@+id/logIn"
+            android:id="@+id/signUp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Log in"
+            android:text="Sign up"
             android:layout_gravity="center"/>
-
-        <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Load"
-            android:id="@+id/ii"
-            android:layout_gravity="center"/>
-
-        <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Choose"
-            android:id="@+id/uu"
-            android:layout_gravity="center"/>
-
-        <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:id="@+id/Image"/>
 
         <TextView
-            android:id="@+id/text1"
+            android:id="@+id/text2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Don't have an account? Sign up"
+            android:text="Already have an account? Log in"
             android:layout_gravity="center"
             android:layout_margin="10dp"
             android:textSize="20dp"/>
@@ -90,5 +72,6 @@
 
 
     </LinearLayout>
+
 
 </android.support.constraint.ConstraintLayout>
